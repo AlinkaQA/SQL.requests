@@ -243,9 +243,9 @@ updated_at — дата и время обновления записи в та�
 <details>
 <summary> Выполнение </summary
 
- 1.<img width="307" alt="Снимок экрана 2025-01-23 в 16 10 10" src="https://github.com/user-attachments/assets/3e8d1ce1-722d-465e-a79b-581f29c14597" />
+1. <img width="307" alt="Снимок экрана 2025-01-23 в 16 10 10" src="https://github.com/user-attachments/assets/3e8d1ce1-722d-465e-a79b-581f29c14597" />
 
- 2. <img width="575" alt="Снимок экрана 2025-01-23 в 16 10 17" src="https://github.com/user-attachments/assets/123d9f06-76a5-4cfe-b921-4ad2b949075d" />
+2. <img width="575" alt="Снимок экрана 2025-01-23 в 16 10 17" src="https://github.com/user-attachments/assets/123d9f06-76a5-4cfe-b921-4ad2b949075d" />
 
 3. <img width="330" alt="Снимок экрана 2025-01-23 в 16 10 28" src="https://github.com/user-attachments/assets/6c6e586f-f65e-4e88-a8be-710513065f65" />
 
