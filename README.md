@@ -243,21 +243,21 @@ updated_at — дата и время обновления записи в та�
 <details>
 <summary> Выполнение </summary
 
-1. <img width="307" alt="Снимок экрана 2025-01-23 в 16 10 10" src="https://github.com/user-attachments/assets/3e8d1ce1-722d-465e-a79b-581f29c14597" />
+1.<img width="307" alt="Снимок экрана 2025-01-23 в 16 10 10" src="https://github.com/user-attachments/assets/3e8d1ce1-722d-465e-a79b-581f29c14597" />
 
-2. <img width="575" alt="Снимок экрана 2025-01-23 в 16 10 17" src="https://github.com/user-attachments/assets/123d9f06-76a5-4cfe-b921-4ad2b949075d" />
+2.<img width="575" alt="Снимок экрана 2025-01-23 в 16 10 17" src="https://github.com/user-attachments/assets/123d9f06-76a5-4cfe-b921-4ad2b949075d" />
 
-3. <img width="330" alt="Снимок экрана 2025-01-23 в 16 10 28" src="https://github.com/user-attachments/assets/6c6e586f-f65e-4e88-a8be-710513065f65" />
+3.<img width="330" alt="Снимок экрана 2025-01-23 в 16 10 28" src="https://github.com/user-attachments/assets/6c6e586f-f65e-4e88-a8be-710513065f65" />
 
-4. <img width="682" alt="Снимок экрана 2025-01-23 в 16 10 36" src="https://github.com/user-attachments/assets/b734d621-8708-490d-8509-990f6a7e56c7" />
+4.<img width="682" alt="Снимок экрана 2025-01-23 в 16 10 36" src="https://github.com/user-attachments/assets/b734d621-8708-490d-8509-990f6a7e56c7" />
 
-5. <img width="682" alt="Снимок экрана 2025-01-23 в 16 12 15" src="https://github.com/user-attachments/assets/7ac6a5fb-892b-430c-994f-070f19c3a132" />
+5.<img width="682" alt="Снимок экрана 2025-01-23 в 16 12 15" src="https://github.com/user-attachments/assets/7ac6a5fb-892b-430c-994f-070f19c3a132" />
 
-6. <img width="383" alt="Снимок экрана 2025-01-23 в 16 12 23" src="https://github.com/user-attachments/assets/b4de57f8-f629-46ec-a040-4fa5fe2ee28b" />
+6.<img width="383" alt="Снимок экрана 2025-01-23 в 16 12 23" src="https://github.com/user-attachments/assets/b4de57f8-f629-46ec-a040-4fa5fe2ee28b" />
 
-7. <img width="465" alt="Снимок экрана 2025-01-23 в 16 12 30" src="https://github.com/user-attachments/assets/9e64ce5b-d9bc-4e53-856d-a394476b80ab" />
+7.<img width="465" alt="Снимок экрана 2025-01-23 в 16 12 30" src="https://github.com/user-attachments/assets/9e64ce5b-d9bc-4e53-856d-a394476b80ab" />
 
-8. <img width="433" alt="Снимок экрана 2025-01-23 в 16 12 37" src="https://github.com/user-attachments/assets/7710c2ed-3e09-4fd0-8fca-98b3bad96695" />
+8.<img width="433" alt="Снимок экрана 2025-01-23 в 16 12 37" src="https://github.com/user-attachments/assets/7710c2ed-3e09-4fd0-8fca-98b3bad96695" />
 
 ***
 
